@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Augusto Brunelli 💻
+## Bem-vindo(a) ao meu perfil 💻
 
  <div>
    <a href="https://github.com/augusto-brunelli">
