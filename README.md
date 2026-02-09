@@ -24,7 +24,7 @@
 ### Pra mais informações me segue nas redes abaixo!
  
 <div> 
-  <a href="https://www.instagram.com/_gutobrunelli/" target="_blank">
+  <a href="https://www.instagram.com/__abrunelli/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:augustobrunelli32@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
